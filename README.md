@@ -12,14 +12,12 @@ CLI Speedtest cepat, ringan, dan keren.
 
 ### Windows
 ```powershell
-irm https://raw.githubusercontent.com/
-domethode-gif/speedtest-neipzyy/main/install.ps1 | iex
+irm https://raw.githubusercontent.com/domethode-gif/speedtest-neipzyy/main/install.ps1 | iex
 ```
 
 ### Linux / macOS
 ```bash
-curl -sSL https://raw.githubusercontent.com/
-domethode-gif/speedtest-neipzyy/main/install.sh | bash
+curl -sSL https://raw.githubusercontent.com/domethode-gif/speedtest-neipzyy/main/install.sh | bash
 ```
 
 ## ▶️ Usage
